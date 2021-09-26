@@ -53,7 +53,7 @@ dice3 = pygame.image.load(os.path.join(imgFolder,"dice3.png"))
 dice4 = pygame.image.load(os.path.join(imgFolder,"dice4.png"))
 dice5 = pygame.image.load(os.path.join(imgFolder,"dice5.png"))
 
-pygame.display.set_caption("Ubongo - Mondragon - Gallegos - Kuylen")
+pygame.display.set_caption("Ubongo - Mondragon")
 pygame.display.set_icon(icon)
 
 ###Botones
